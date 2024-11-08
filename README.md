@@ -1,8 +1,8 @@
-# 📊 Counter Controller
+# 📊 Click and Count
 
 ## Description
 
-The Counter Controller is a straightforward and efficient tool designed to help users manage counters. With this tool, users can easily increase, decrease, and reset their counters, making it ideal for various counting needs. Additionally, users can increase the counter by using the space bar. The counter has the ability to lock counting after reaching 5, preventing further increments.
+The ClickAndCount project is a straightforward and efficient tool designed to help users manage counters. With this tool, users can easily increase, decrease, and reset their counters, making it ideal for various counting needs. Additionally, users can increase the counter by using the space bar. The counter has the ability to lock counting after reaching 5, preventing further increments.
 
 This small project was created just for fun and to practice React, Javascript, DOM manipulation and css.
 
@@ -11,6 +11,7 @@ This small project was created just for fun and to practice React, Javascript, D
 - 🖥️ **Programming Language**: JavaScript
 - 🌐 **Framework**: React
 - 📦 **Package Manager**: npm
+- 🎨 **Styling**: CSS
 
 ## Features
 
@@ -23,7 +24,7 @@ This small project was created just for fun and to practice React, Javascript, D
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/counter-controller.git
+   git clone https://github.com/sentonia/click-and-count.git
    ```
 2. **Install dependencies**:
    ```sh
